@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22B62F1D-4A99-4717-9399-515A1AE7B732}|encapsulation, class\\encapsulation, class.csproj|c:\\users\\pc\\onedrive - azerbaijan technical university\\desktop\\encapsulation task\\encapsulation, class\\encapsulation, class\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B62F1D-4A99-4717-9399-515A1AE7B732}|encapsulation, class\\encapsulation, class.csproj|solutionrelative:encapsulation, class\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B62F1D-4A99-4717-9399-515A1AE7B732}|encapsulation, class\\encapsulation, class.csproj|c:\\users\\pc\\onedrive - azerbaijan technical university\\desktop\\encapsulation task\\encapsulation, class\\encapsulation, class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B62F1D-4A99-4717-9399-515A1AE7B732}|encapsulation, class\\encapsulation, class.csproj|solutionrelative:encapsulation, class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B62F1D-4A99-4717-9399-515A1AE7B732}|encapsulation, class\\encapsulation, class.csproj|c:\\users\\pc\\onedrive - azerbaijan technical university\\desktop\\encapsulation task\\encapsulation, class\\encapsulation, class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B62F1D-4A99-4717-9399-515A1AE7B732}|encapsulation, class\\encapsulation, class.csproj|solutionrelative:encapsulation, class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B62F1D-4A99-4717-9399-515A1AE7B732}|encapsulation, class\\encapsulation, class.csproj|c:\\users\\pc\\onedrive - azerbaijan technical university\\desktop\\encapsulation task\\encapsulation, class\\encapsulation, class\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B62F1D-4A99-4717-9399-515A1AE7B732}|encapsulation, class\\encapsulation, class.csproj|solutionrelative:encapsulation, class\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\encapsulation, class\\Library.cs",
+              "RelativeDocumentMoniker": "encapsulation, class\\Library.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\encapsulation, class\\Library.cs",
+              "RelativeToolTip": "encapsulation, class\\Library.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:19:37.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\encapsulation, class\\Book.cs",
+              "RelativeDocumentMoniker": "encapsulation, class\\Book.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\encapsulation, class\\Book.cs",
+              "RelativeToolTip": "encapsulation, class\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:18:25.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\encapsulation, class\\Product.cs",
+              "RelativeDocumentMoniker": "encapsulation, class\\Product.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\encapsulation, class\\Product.cs",
+              "RelativeToolTip": "encapsulation, class\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:16:32.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\encapsulation, class\\Program.cs",
+              "RelativeDocumentMoniker": "encapsulation, class\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive - Azerbaijan Technical University\\Desktop\\Encapsulation task\\encapsulation, class\\encapsulation, class\\Program.cs",
+              "RelativeToolTip": "encapsulation, class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:15:34.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
